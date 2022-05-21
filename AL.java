@@ -15,7 +15,7 @@ public class AL {
         System.out.println("Array list contains: "+obj);
         System.out.println("Size is:    "+obj.size());
 
-        if(obj.contains("April")){
+        if(obj.contains("April")){ //new Comments
             System.out.println("Elementis there");
         }
 
